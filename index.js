@@ -21,3 +21,5 @@ const anotherBadFunction = () => {
 }
 
 funTwo(9);
+badFunction();
+anotherBadFunction();
