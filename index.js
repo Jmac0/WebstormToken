@@ -15,3 +15,7 @@ function funTwo (arg) {
 const badFunction = () => {
   return 'I\'m a very bad function and you committed me'
 }
+
+const anotherBadFunction = () => {
+  return 'I\'m a very bad function and you committed me'
+}
