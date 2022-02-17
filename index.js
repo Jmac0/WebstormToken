@@ -19,3 +19,5 @@ const badFunction = () => {
 const anotherBadFunction = () => {
   return 'I\'m a very bad function and you committed me'
 }
+
+funTwo(9);
