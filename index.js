@@ -12,14 +12,14 @@ function funTwo (arg) {
 
 }
 
-const badFunction = () => {
-  return 'I\'m a very bad function and you committed me'
+const greatFunction = () => {
+  return 'I\'m a very bad function, and you committed me'
 }
 
-const anotherBadFunction = () => {
-  return 'I\'m a very bad function and you committed me'
+const anotherGoodFunction = () => {
+  return 'I\'m a very bad function, and you committed me'
 }
 
 funTwo(9);
-badFunction();
-anotherBadFunction();
+greatFunction();
+anotherGoodFunction();
