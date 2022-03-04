@@ -11,7 +11,7 @@ function funTwo (arg) {
   console.log(arg);
 
 }
-// some change
+// some change 2
 const greatFunction = () => {
   return 'I\'m a very bad function, and you committed me'
 }
