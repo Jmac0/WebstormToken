@@ -6,9 +6,8 @@ function funOne() {
 
 funOne();
 
-
 function funTwo (arg) {
-  console.log(arg);
+  console.log(arg + 'poooo');
 
 }
 // some change 2
