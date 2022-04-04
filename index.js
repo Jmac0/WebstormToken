@@ -7,7 +7,7 @@ function funOne() {
 funOne();
 
 function funTwo (arg) {
-  console.log(arg + 'poooo');
+  console.log(arg + '123');
 
 }
 // some change 2
