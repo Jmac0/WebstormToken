@@ -8,6 +8,7 @@ funOne();
 function funTwo (arg) {
 //// some logic
 // some more logic
+  // false
 }
 // some change 2
 const greatFunction = () => {
