@@ -6,8 +6,7 @@ const saveTheTokenFFS = 'omg';
 funOne();
 
 function funTwo (arg) {
-
-  console.log(arg + '123345nkkjnjk');
+//// some logic
 
 }
 // some change 2
