@@ -15,6 +15,9 @@ const greatFunction = () => {
   return 'I\'m a very bad function, and you committed me'
 }
 
+
+/// Added some comments
+
 const anotherGoodFunction = () => {
   return 'I\'m a very bad function, and you committed me'
 }
