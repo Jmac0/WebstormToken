@@ -2,7 +2,7 @@
 function funOne() {
   /*do so code in here*/
 }
-
+const saveTheTokenFFS = 'omg';
 
 funOne();
 
