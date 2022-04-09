@@ -5,6 +5,8 @@ function funOne() {
 const saveTheTokenFFS = 'omg';
 
 const arrgg = 'ARRRGGGGH!'
+
+const change = 6
 funOne();
 
 function funTwo (arg) {
