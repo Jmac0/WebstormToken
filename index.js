@@ -3,13 +3,10 @@ function funOne() {
   /*do so code in here*/
 }
 const saveTheTokenFFS = 'omg';
-
-const arrgg = 'ARRRGGGGH!'
-
-const change = 6
 funOne();
 
 function funTwo (arg) {
+
   console.log(arg + '123345');
 
 }
