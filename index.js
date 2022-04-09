@@ -4,6 +4,7 @@ function funOne() {
 }
 const saveTheTokenFFS = 'omg';
 
+const arrgg = 'ARRRGGGGH!'
 funOne();
 
 function funTwo (arg) {
