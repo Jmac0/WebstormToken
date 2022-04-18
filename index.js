@@ -12,19 +12,14 @@ function funTwo(arg) {}
 //
 // false
 // some change 2
-const greatFunction = ( => {
-  return "I'm a very bad function, and you committed me";
-};
 
 // Another change
 
 /// Added some comments
 
 const anotherGoodFunction = () => {
-  return "I'm a very bad function, and you committed me";
-
-
-;
+  return "I'm a very bad function, and you committed me"
+}
 
 
 
