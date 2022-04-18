@@ -20,7 +20,6 @@ function funTwo(arg) {}
 const anotherGoodFunction = () => {
   return "I'm a very bad function, and you committed me"
 }
-console.log('something')
 
 
 
