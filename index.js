@@ -21,7 +21,5 @@ const anotherGoodFunction = () => {
   return "I'm a very bad function, and you committed me"
 }
 
-function poop(){
   console.log('something')
-}
 
